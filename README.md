@@ -7,4 +7,4 @@
 ### sudo chmod +x ogretmen_paylasim_gnome.py
 ## Çalıştır
 ## sudo python3 ogretmen_paylasim_gnome.py
-<img width="614" height="593" alt="image" src="https://github.com/user-attachments/assets/f749e2b4-b797-473b-aa97-6939661b7466" />
+<img width="614" height="593" alt="image" src="https://github.com/user-attachments/assets/c68afa3a-f8dc-4395-8fb1-bcd17325dec7" />
